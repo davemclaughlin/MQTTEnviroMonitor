@@ -6,8 +6,8 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-#define wifi_ssid "dave_lockedout"
-#define wifi_password "Android2013"
+#define wifi_ssid "***"
+#define wifi_password "***"
 
 #define mqtt_server "192.168.1.146"
 #define mqtt_user ""
